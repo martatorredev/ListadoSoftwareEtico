@@ -1,7 +1,7 @@
 # ListadoSoftwareEtico
 
 //
-PixelFed es parecida a Instagram;
+PixelFed es parecida a Instagram; <br>
 PeerTube es parecida a Youtube;
 Friendica es parecida a Facebook;
 FunkWhale es parecida a Soundcloud;
